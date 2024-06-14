@@ -1,4 +1,4 @@
-package pesquisas;
+package list.pesquisas;
 
 public class Livro {
 

@@ -1,4 +1,4 @@
-package pesquisas;
+package list.pesquisas;
 
 import java.util.ArrayList;
 import java.util.List;
